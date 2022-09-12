@@ -1,9 +1,9 @@
 $engine: 9
 $onesync: legacy
-name: QBCore Framework
+name: ECCRP-QBCore Like Framework
 version: 4.0.1
-author: JericoFx & Kakarot & Hamy
-description: An advanced FiveM RP framework including jobs, gangs, housing & more!
+author: ECCRP Dev Team
+description: New QBCore Like Framework With Updated YAML File And New Stuff Comming Soon!
 
 tasks:
   #  Download Base Files
